@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.client.rendering.v1.HudRenderCallback;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.font.TextRenderer;
 import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.render.RenderTickCounter; // <-- NOVO IMPORT DA 1.21
 import net.minecraft.text.Text;
 import net.minecraft.util.math.MathHelper;
 import net.minecraft.util.math.random.Random;
@@ -21,12 +22,6 @@ public class BossTextHud implements HudRenderCallback {
     private static final int COLOR_RED = 0xFF0000; 
     private static final float SHAKE_INTENSITY = 2.0f; 
 
-    /**
-     * @param key
-     * @param duration
-     * @param fadeIn
-     * @param fadeOut
-     */
     public static void show(String key, int duration, int fadeIn, int fadeOut) {
         currentKey = key;
         totalDuration = duration;
@@ -37,7 +32,7 @@ public class BossTextHud implements HudRenderCallback {
     }
 
     @Override
-    public void onHudRender(DrawContext context, float tickDelta) {
+    public void onHudRender(DrawContext context, RenderTickCounter tickCounter) {
         if (!isActive || displayTicks <= 0) {
             isActive = false;
             return;

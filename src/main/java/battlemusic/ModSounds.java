@@ -15,7 +15,7 @@ public class ModSounds {
 
     public static void registerSounds() {
         for (int i = 1; i <= AMOUNT; i++) {
-            Identifier id = new Identifier("battlemusic", "boss_theme_" + i);
+            Identifier id = Identifier.of("battlemusic", "boss_theme_" + i);
             SoundEvent event = SoundEvent.of(id);
             Registry.register(Registries.SOUND_EVENT, id, event);
             MUSIC_LIST.add(event);
@@ -35,7 +35,7 @@ public class ModSounds {
         SoundEvent next;
         do {
             next = MUSIC_LIST.get(RANDOM.nextInt(MUSIC_LIST.size()));
-        } while (next == exclude);
+        } while (next == exclude); 
         
         return next;
     }
