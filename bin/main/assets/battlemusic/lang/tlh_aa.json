@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Quv Ha'DIbaH bom chu'",
+    "battlemusic.midnightconfig.category.music": "wab bom pat",
+    "battlemusic.midnightconfig.musicVolume": "bom wab",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Ha'DIbaH bom wab",
+    "battlemusic.midnightconfig.detectionRange": "leghchu' mIw",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "bom chu' qaSmeH qoch",
+    "battlemusic.midnightconfig.bossHealthThreshold": "quvDev tIqHom",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "quvDev tIqHom poQ",
+    "battlemusic.midnightconfig.fadeTime": "bom ghItlh",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "bom wab ghItlh mIw",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod chu'",
+    "subtitles.battlemusic.boss_theme_1": "Quv Ha'DIbaH bom chu'"
+}

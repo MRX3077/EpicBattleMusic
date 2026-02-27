@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epische Gevechtsmuziek Configuratie",
+    "battlemusic.midnightconfig.category.music": "Audio-instellingen",
+    
+    "battlemusic.midnightconfig.musicVolume": "Muziekvolume",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume van de gevechtsmuziek",
+    
+    "battlemusic.midnightconfig.detectionRange": "Detectiebereik",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Afstand in blokken om muziek te activeren",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Bossgezondheid",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale gezondheid om als boss te tellen",
+    
+    "battlemusic.midnightconfig.fadeTime": "Overgangstijd",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tijd in ticks voor volume-overgang",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Inschakelen",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epische Gevechtsmuziek Speelt"
+}

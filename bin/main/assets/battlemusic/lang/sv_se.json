@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Episk Stridsmusik Konfiguration",
+    "battlemusic.midnightconfig.category.music": "Ljudinställningar",
+    
+    "battlemusic.midnightconfig.musicVolume": "Musikvolym",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volym på stridsmusiken",
+    
+    "battlemusic.midnightconfig.detectionRange": "Detekteringsräckvidd",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Avstånd i block för att aktivera musik",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minsta Boss-hälsa",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minsta hälsa för att räknas som boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Övergångstid",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tid i ticks för volymövergång",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktivera Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Episk Stridsmusik Spelas"
+}

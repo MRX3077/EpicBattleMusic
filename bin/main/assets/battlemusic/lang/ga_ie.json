@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Cumraíocht Ceoil Catha Eipiciúil",
+    "battlemusic.midnightconfig.category.music": "Socruithe Fuaime",
+    "battlemusic.midnightconfig.musicVolume": "Toirt an Cheoil",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Toirt ceoil cath",
+    "battlemusic.midnightconfig.detectionRange": "Raon Braite",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Fad i mblocanna chun ceol a ghníomhachtú",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Sláinte Íosta an Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Sláinte íosta le bheith ina boss",
+    "battlemusic.midnightconfig.fadeTime": "Am Maolaithe",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Am i ticks le haghaidh maolaithe",
+    "battlemusic.midnightconfig.enableAutoMusic": "Cumasaigh Mod",
+    "subtitles.battlemusic.boss_theme_1": "Tá ceol cath eipiciúil á sheinm"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Ehpalaš Doaibmanmusihkka Heivehusat",
+    "battlemusic.midnightconfig.category.music": "Jietnadoaimmat",
+    "battlemusic.midnightconfig.musicVolume": "Musihkka Jietna",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Doaibmanmusihkka jietna",
+    "battlemusic.midnightconfig.detectionRange": "Fuomášanviidodat",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Gaskka blokkas musihka álggaheami várás",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Boss Minimála Dearvvašvuohta",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimála dearvvašvuohta bossii",
+    "battlemusic.midnightconfig.fadeTime": "Jietna Unnot Áigi",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Áigi ticks-in jietna unnuthuvvot",
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktivere Mod",
+    "subtitles.battlemusic.boss_theme_1": "Ehpalaš doaibmanmusihkka čuojaha"
+}

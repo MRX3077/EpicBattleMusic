@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epik Savaş Müziği Yapılandırması",
+    "battlemusic.midnightconfig.category.music": "Ses Ayarları",
+    
+    "battlemusic.midnightconfig.musicVolume": "Müzik Sesi",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Savaş müziği ses seviyesi",
+    
+    "battlemusic.midnightconfig.detectionRange": "Algılama Menzili",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Müziği etkinleştirmek için blok mesafesi",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimum Boss Canı",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Boss olarak sayılmak için gereken minimum can",
+    
+    "battlemusic.midnightconfig.fadeTime": "Geçiş Süresi",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Ses geçişi için tick süresi",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Modu Etkinleştir",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epik Savaş Müziği Çalıyor"
+}

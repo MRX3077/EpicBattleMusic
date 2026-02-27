@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "에픽 전투 음악 설정",
+    "battlemusic.midnightconfig.category.music": "오디오 설정",
+    
+    "battlemusic.midnightconfig.musicVolume": "음악 볼륨",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "전투 음악 볼륨",
+    
+    "battlemusic.midnightconfig.detectionRange": "감지 범위",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "음악을 활성화하는 블록 거리",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "최소 보스 체력",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "보스로 간주되기 위한 최소 체력",
+    
+    "battlemusic.midnightconfig.fadeTime": "페이드 시간",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "볼륨 페이드의 틱 시간",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "모드 활성화",
+    
+    "subtitles.battlemusic.boss_theme_1": "에픽 전투 음악 재생 중"
+}

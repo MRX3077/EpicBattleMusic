@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Nhazi Egwu Agha Epik",
+    "battlemusic.midnightconfig.category.music": "Ntọala Ụda",
+    "battlemusic.midnightconfig.musicVolume": "Olu Egwu",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Olu egwu agha",
+    "battlemusic.midnightconfig.detectionRange": "Ogologo Nchọpụta",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ogologo na blọk iji rụọ egwu",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Ahụike Boss Pere mpe",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Ahụike kacha nta iji bụrụ boss",
+    "battlemusic.midnightconfig.fadeTime": "Oge Mmebi Olu",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Oge na ticks maka mbelata olu",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mee Mod Ka Ọ Rụọ Ọrụ",
+    "subtitles.battlemusic.boss_theme_1": "Egwu agha epik na-egwu"
+}

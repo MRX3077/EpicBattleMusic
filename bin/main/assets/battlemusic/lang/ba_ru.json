@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Эпик һуғыш музыкаһы көйләүҙәре",
+    "battlemusic.midnightconfig.category.music": "Аудио көйләүҙәр",
+    "battlemusic.midnightconfig.musicVolume": "Музыка тауышы",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Һуғыш музыкаһының тауышы",
+    "battlemusic.midnightconfig.detectionRange": "Аныҡлау алыҫлығы",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Музыканы ҡабыҙыу өсөн алыҫлыҡ",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Минималь Босс һаулығы",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Босс тип иҫәпләү өсөн минимум һаулыҡ",
+    "battlemusic.midnightconfig.fadeTime": "Һүрелеү ваҡыты",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Тауыш һүрелеү ваҡыты (тик)",
+    "battlemusic.midnightconfig.enableAutoMusic": "Модты ҡабыҙыу",
+    "subtitles.battlemusic.boss_theme_1": "Эпик һуғыш музыкаһы уйнай"
+}

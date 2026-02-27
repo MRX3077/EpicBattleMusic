@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Tlahtōlli Tēcpan Tōnalli Tzōntli",
+    "battlemusic.midnightconfig.category.music": "Tlatzōntli Tlatēnquiliztli",
+    "battlemusic.midnightconfig.musicVolume": "Tzōntli Chicāhuac",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Chicāhuac tzōntli tēcpatl",
+    "battlemusic.midnightconfig.detectionRange": "Tlachīyaliztli Tlanēhua",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Tlanēhua īpan blōccoh īpan tzōntli",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Tēuctli Yoliliztli Tēnēhua",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Yoliliztli tēnēhua īpan tēuctli",
+    "battlemusic.midnightconfig.fadeTime": "Tzōntli Pāca Tōnal",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tōnal īpan ticks īpan tzōntli pāca",
+    "battlemusic.midnightconfig.enableAutoMusic": "Cualtia Mod",
+    "subtitles.battlemusic.boss_theme_1": "Tōnalli tēcpatl tzōntli tlācatia"
+}

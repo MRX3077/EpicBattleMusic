@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "এপিক ব্যাটল মিউজিক কনফিগারেশন",
+    "battlemusic.midnightconfig.category.music": "অডিও সেটিংস",
+    
+    "battlemusic.midnightconfig.musicVolume": "মিউজিক ভলিউম",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "ব্যাটল মিউজিকের ভলিউম",
+    
+    "battlemusic.midnightconfig.detectionRange": "সনাক্তকরণের সীমা",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "সঙ্গীত সক্রিয় করার জন্য ব্লক দূরত্ব",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "ন্যূনতম বস স্বাস্থ্য",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "বস হিসেবে গণ্য হওয়ার জন্য ন্যূনতম স্বাস্থ্য",
+    
+    "battlemusic.midnightconfig.fadeTime": "ফেড সময়",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "ভলিউম ফেড করার জন্য টিক সময়",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "মড সক্রিয় করুন",
+    
+    "subtitles.battlemusic.boss_theme_1": "এপিক ব্যাটল মিউজিক চলছে"
+}

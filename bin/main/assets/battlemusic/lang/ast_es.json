@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configuración de Música Épica de Combate",
+    "battlemusic.midnightconfig.category.music": "Axustes d'Audiu",
+    "battlemusic.midnightconfig.musicVolume": "Volume de la Música",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume de la música de combate",
+    "battlemusic.midnightconfig.detectionRange": "Rangu de Deteición",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distancia en bloques pa activar la música",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Vida Mínima del Xefe",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Vida mínima pa considerase xefe",
+    "battlemusic.midnightconfig.fadeTime": "Tiempu de Desvanecimientu",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tiempu en ticks pal desvanecimientu",
+    "battlemusic.midnightconfig.enableAutoMusic": "Activar Mod",
+    "subtitles.battlemusic.boss_theme_1": "Reproduciéndose música épica de combate"
+}

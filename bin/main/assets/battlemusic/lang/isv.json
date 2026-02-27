@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Nastrojenje Epične Bojne Muziky",
+    "battlemusic.midnightconfig.category.music": "Zvukove Nastavjenja",
+    "battlemusic.midnightconfig.musicVolume": "Gromkost Muziky",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Gromkost bojne muzike",
+    "battlemusic.midnightconfig.detectionRange": "Razstojanje Obnaruženja",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Razstojanje v blokah dlja aktivacije muzike",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimalno Zdravje Bossa",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimalno zdravje za boss",
+    "battlemusic.midnightconfig.fadeTime": "Vremę Zatihanija",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Vremę v ticks za utišanje",
+    "battlemusic.midnightconfig.enableAutoMusic": "Vključiti Mod",
+    "subtitles.battlemusic.boss_theme_1": "Epična bojna muzika igra"
+}

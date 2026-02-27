@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epik Suğış Muzıkası Köyläwlär",
+    "battlemusic.midnightconfig.category.music": "Audio Köyläwlär",
+    "battlemusic.midnightconfig.musicVolume": "Muzıka Tavışı",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Suğış muzıkasınıñ tavışı",
+    "battlemusic.midnightconfig.detectionRange": "Açu Radiusı",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Muzıka başlanu öçen bloklar arası",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Boss Minimum Sälamätlek",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Boss bulu öçen minimum sälamätlek",
+    "battlemusic.midnightconfig.fadeTime": "Yomşaru Vakıtı",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tavış yomşaruı öçen ticks",
+    "battlemusic.midnightconfig.enableAutoMusic": "Modnı Aç",
+    "subtitles.battlemusic.boss_theme_1": "Epik suğış muzıkası yañğırıy"
+}

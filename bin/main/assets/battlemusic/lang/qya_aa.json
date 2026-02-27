@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epic Mahta Lindalë Corma",
+    "battlemusic.midnightconfig.category.music": "Lindalë Hrávë",
+    "battlemusic.midnightconfig.musicVolume": "Lindalë Óma",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Mahta lindalë óma",
+    "battlemusic.midnightconfig.detectionRange": "Tirë Ráma",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ráma i sarnor ma lindalë nahtië",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Heru Coirë Minya",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minya coirë an heru",
+    "battlemusic.midnightconfig.fadeTime": "Hrívë Lúmë",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Lúmë i ticks an óma hrívë",
+    "battlemusic.midnightconfig.enableAutoMusic": "Corma Ortanë",
+    "subtitles.battlemusic.boss_theme_1": "Epic mahta lindalë tyala"
+}

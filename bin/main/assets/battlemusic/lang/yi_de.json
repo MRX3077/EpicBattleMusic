@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "עפּישע קאמף מוזיק איינשטעלונגען",
+    "battlemusic.midnightconfig.category.music": "אודיאָ איינשטעלונגען",
+    "battlemusic.midnightconfig.musicVolume": "מוזיק באַנד",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "באַנד פון קאמף מוזיק",
+    "battlemusic.midnightconfig.detectionRange": "דערקענונג רייך",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "דיסטאַנץ אין בלאָקס צו אָנהייבן מוזיק",
+    "battlemusic.midnightconfig.bossHealthThreshold": "מינימום באָס געזונט",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "מינימום געזונט צו זײַן אַ באָס",
+    "battlemusic.midnightconfig.fadeTime": "אויסבלענד צייט",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "צייט אין טיקס פֿאַר אויסבלענד",
+    "battlemusic.midnightconfig.enableAutoMusic": "מאָד אָנמאַכן",
+    "subtitles.battlemusic.boss_theme_1": "עפּישע קאמף מוזיק שפילט"
+}

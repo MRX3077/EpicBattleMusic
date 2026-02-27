@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "एपिक बैटल म्यूजिक कॉन्फ़िग",
+    "battlemusic.midnightconfig.category.music": "ऑडियो सेटिंग्स",
+    
+    "battlemusic.midnightconfig.musicVolume": "संगीत की मात्रा",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "बैटल संगीत की मात्रा",
+    
+    "battlemusic.midnightconfig.detectionRange": "डिटेक्शन रेंज",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "संगीत सक्रिय करने के लिए ब्लॉक्स में दूरी",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "न्यूनतम बॉस हेल्थ",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "बॉस माने जाने के लिए न्यूनतम स्वास्थ्य",
+    
+    "battlemusic.midnightconfig.fadeTime": "फेड समय",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "वॉल्यूम फेड के लिए टिक में समय",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "मॉड सक्षम करें",
+    
+    "subtitles.battlemusic.boss_theme_1": "एपिक बैटल म्यूजिक चल रहा है"
+}

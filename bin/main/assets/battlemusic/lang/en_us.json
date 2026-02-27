@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epic Battle Music Config",
+    "battlemusic.midnightconfig.category.music": "Audio Settings",
+    
+    "battlemusic.midnightconfig.musicVolume": "Music Volume",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Battle music volume",
+    
+    "battlemusic.midnightconfig.detectionRange": "Detection Range",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distance in blocks to activate music",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Min Boss Health",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimum health required to be considered a Boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Fade Smoothness",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Time in ticks for volume fade in/out",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Enable Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epic Battle Music Playing"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "ການຕັ້ງຄ່າດົນຕີການຕໍ່ສູ້ອັນຍິ່ງໃຫຍ່",
+    "battlemusic.midnightconfig.category.music": "ການຕັ້ງຄ່າສຽງ",
+    "battlemusic.midnightconfig.musicVolume": "ຄວາມດັງຂອງດົນຕີ",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "ຄວາມດັງຂອງດົນຕີການຕໍ່ສູ້",
+    "battlemusic.midnightconfig.detectionRange": "ຊ່ວງການກວດຈັບ",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "ໄລຍະທາງໃນບລັອກເພື່ອເປີດດົນຕີ",
+    "battlemusic.midnightconfig.bossHealthThreshold": "ພະລັງຊີວິດ Boss ຂັ້ນຕ່ຳ",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "ພະລັງຊີວິດຕ່ຳສຸດເພື່ອເປັນ Boss",
+    "battlemusic.midnightconfig.fadeTime": "ເວລາຈາງ",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "ເວລາໃນ ticks ສຳລັບການຫຼຸດສຽງ",
+    "battlemusic.midnightconfig.enableAutoMusic": "ເປີດ Mod",
+    "subtitles.battlemusic.boss_theme_1": "ກຳລັງຫຼິ້ນດົນຕີການຕໍ່ສູ້ອັນຍິ່ງໃຫຍ່"
+}

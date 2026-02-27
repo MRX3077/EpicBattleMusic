@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Konfigurazzjoni tal-Mużika tal-Gwerra Epika",
+    "battlemusic.midnightconfig.category.music": "Settings tal-Awdjo",
+    "battlemusic.midnightconfig.musicVolume": "Volum tal-Mużika",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volum tal-mużika tal-gwerra",
+    "battlemusic.midnightconfig.detectionRange": "Firxa ta' Skoperta",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanza f'blokki biex tibda l-mużika",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Saħħa Minima tal-Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Saħħa minima biex tkun boss",
+    "battlemusic.midnightconfig.fadeTime": "Ħin ta' Fade",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Ħin f'ticks biex il-volum jonqos",
+    "battlemusic.midnightconfig.enableAutoMusic": "Attiva l-Mod",
+    "subtitles.battlemusic.boss_theme_1": "Qed tindaqq mużika tal-gwerra epika"
+}

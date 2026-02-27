@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Gosodiadau Cerddoriaeth Brwydr Epig",
+    "battlemusic.midnightconfig.category.music": "Gosodiadau Sain",
+    "battlemusic.midnightconfig.musicVolume": "Lefel Cerddoriaeth",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Lefel cerddoriaeth y frwydr",
+    "battlemusic.midnightconfig.detectionRange": "Pellter Canfod",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Pellter mewn blociau i actifadu cerddoriaeth",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Iechyd Boss Isaf",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Iechyd lleiaf i gyfrif fel boss",
+    "battlemusic.midnightconfig.fadeTime": "Amser Trosglwyddo",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Amser mewn ticks ar gyfer trosglwyddo sain",
+    "battlemusic.midnightconfig.enableAutoMusic": "Galluogi Mod",
+    "subtitles.battlemusic.boss_theme_1": "Cerddoriaeth frwydr epig yn chwarae"
+}

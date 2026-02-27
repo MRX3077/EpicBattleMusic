@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Настроеніе Эпической Боевой Музыки",
+    "battlemusic.midnightconfig.category.music": "Аудіо Настроѣнія",
+    "battlemusic.midnightconfig.musicVolume": "Громкость Музыки",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Громкость боевой музыки",
+    "battlemusic.midnightconfig.detectionRange": "Дальность Обнаруженія",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Дистанція въ блокахъ для активаціи музыки",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Минимальное Здоровье Босса",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Минимальное здоровье для босса",
+    "battlemusic.midnightconfig.fadeTime": "Время Затуханія",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Время въ тикахъ для затуханія",
+    "battlemusic.midnightconfig.enableAutoMusic": "Включить Модъ",
+    "subtitles.battlemusic.boss_theme_1": "Эпическая боевая музыка играетъ"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Settyans Son Agh Epik",
+    "battlemusic.midnightconfig.category.music": "Settyans Awdhow",
+    "battlemusic.midnightconfig.musicVolume": "Kres an Son",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Kres son agh",
+    "battlemusic.midnightconfig.detectionRange": "Hedra Darganfod",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Hedra yn blokow rag delivra son",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Yechyd Boss Isel",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Yechyd isel rag bos",
+    "battlemusic.midnightconfig.fadeTime": "Amser Disweles",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Amser yn ticks rag disweles",
+    "battlemusic.midnightconfig.enableAutoMusic": "Gwerthya Mod",
+    "subtitles.battlemusic.boss_theme_1": "Son agh epik ow seni"
+}

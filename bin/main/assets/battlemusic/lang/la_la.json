@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configuratio Musicae Proelii Epici",
+    "battlemusic.midnightconfig.category.music": "Optiones Sonorum",
+    "battlemusic.midnightconfig.musicVolume": "Volumen Musicae",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumen musicae proelii",
+    "battlemusic.midnightconfig.detectionRange": "Spatium Detectionis",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distantia in cubis ad musicam activandam",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Sanitas Minima Ducis",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Sanitas minima ad ducem",
+    "battlemusic.midnightconfig.fadeTime": "Tempus Evanescendi",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempus in ticks ad sonum minuendum",
+    "battlemusic.midnightconfig.enableAutoMusic": "Modum Activa",
+    "subtitles.battlemusic.boss_theme_1": "Musica proelii epici canitur"
+}

@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "ఎపిక్ బాటిల్ మ్యూజిక్ కాన్ఫిగరేషన్",
+    "battlemusic.midnightconfig.category.music": "ఆడియో సెట్టింగ్స్",
+    
+    "battlemusic.midnightconfig.musicVolume": "సంగీత వాల్యూమ్",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "బాటిల్ మ్యూజిక్ వాల్యూమ్",
+    
+    "battlemusic.midnightconfig.detectionRange": "డిటెక్షన్ రేంజ్",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "సంగీతాన్ని యాక్టివేట్ చేయడానికి బ్లాక్ దూరం",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "నిమ్నతమ బాస్ హెల్త్",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "బాస్‌గా పరిగణించడానికి కనీస ఆరోగ్యం",
+    
+    "battlemusic.midnightconfig.fadeTime": "ఫేడ్ సమయం",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "వాల్యూమ్ ఫేడ్ చేయడానికి టిక్‌లో సమయం",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "మోడ్ ను ఎనేబుల్ చేయండి",
+    
+    "subtitles.battlemusic.boss_theme_1": "ఎపిక్ బాటిల్ మ్యూజిక్ ప్లే అవుతోంది"
+}

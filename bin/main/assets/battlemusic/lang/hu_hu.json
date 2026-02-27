@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epikus Harci Zene Beállításai",
+    "battlemusic.midnightconfig.category.music": "Hangbeállítások",
+    
+    "battlemusic.midnightconfig.musicVolume": "Zene Hangereje",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Harci zene hangereje",
+    
+    "battlemusic.midnightconfig.detectionRange": "Észlelési Tartomány",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Blokk távolság a zene aktiválásához",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimális Boss Életerő",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimális életerő a bossként való számításhoz",
+    
+    "battlemusic.midnightconfig.fadeTime": "Átmeneti Idő",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tick-ben mért idő a hangerő elhalványításához",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Engedélyezése",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epikus Harci Zene Szól"
+}

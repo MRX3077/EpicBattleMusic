@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Konfigurasi Muzik Pertempuran Epik",
+    "battlemusic.midnightconfig.category.music": "Tetapan Audio",
+    
+    "battlemusic.midnightconfig.musicVolume": "Isipadu Muzik",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Isipadu muzik pertempuran",
+    
+    "battlemusic.midnightconfig.detectionRange": "Julat Pengesanan",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Jarak dalam blok untuk mengaktifkan muzik",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Kesihatan Minimum Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Kesihatan minimum untuk dianggap sebagai Boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Masa Peralihan",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Masa dalam tick untuk fade isipadu",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktifkan Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Muzik Pertempuran Epik Sedang Dimainkan"
+}

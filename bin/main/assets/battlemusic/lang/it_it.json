@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Configurazione Musica di Battaglia Epica",
+    "battlemusic.midnightconfig.category.music": "Impostazioni Audio",
+    
+    "battlemusic.midnightconfig.musicVolume": "Volume della Musica",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume della musica di battaglia",
+    
+    "battlemusic.midnightconfig.detectionRange": "Raggio di Rilevamento",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanza in blocchi per attivare la musica",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Salute Minima del Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Salute minima richiesta per essere considerato un Boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Tempo di Dissolvenza",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempo in tick per la dissolvenza del volume",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Abilita Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Musica di Battaglia Epica in Riproduzione"
+}

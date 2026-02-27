@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Eppesche Kampfmussik Enstellunge",
+    "battlemusic.midnightconfig.category.music": "Audio Enstellunge",
+    "battlemusic.midnightconfig.musicVolume": "Mussik Lautstärk",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Lautstärk vun de Kampfmussik",
+    "battlemusic.midnightconfig.detectionRange": "Erkennungsreisch",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Afstand en Blöck för Mussik ze starte",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Boss-Levve",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale Levve för ene Boss",
+    "battlemusic.midnightconfig.fadeTime": "Ußblende-Zick",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Zick en Ticks för Lautstärk",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Aanmaache",
+    "subtitles.battlemusic.boss_theme_1": "Eppesche Kampfmussik spillt"
+}

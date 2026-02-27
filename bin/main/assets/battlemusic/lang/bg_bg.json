@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Конфигурация на Епична Бойна Музика",
+    "battlemusic.midnightconfig.category.music": "Настройки на аудиото",
+    
+    "battlemusic.midnightconfig.musicVolume": "Громкост на музиката",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Громкост на бойната музика",
+    
+    "battlemusic.midnightconfig.detectionRange": "Обхват на засичане",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Разстояние в блокове за активиране на музиката",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Минимално здраве на Бос",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Минимално здраве за да се счита за Бос",
+    
+    "battlemusic.midnightconfig.fadeTime": "Време за изчезване",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Време в тикове за изчезване на звука",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Активиране на мода",
+    
+    "subtitles.battlemusic.boss_theme_1": "Епична бойна музика свири"
+}

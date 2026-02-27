@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "การตั้งค่าเพลงต่อสู้สุดยิ่งใหญ่",
+    "battlemusic.midnightconfig.category.music": "การตั้งค่าเสียง",
+    
+    "battlemusic.midnightconfig.musicVolume": "ระดับเสียงเพลง",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "ระดับเสียงเพลงต่อสู้",
+    
+    "battlemusic.midnightconfig.detectionRange": "ระยะการตรวจจับ",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "ระยะในบล็อกเพื่อเปิดเพลง",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "พลังชีวิตขั้นต่ำของบอส",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "พลังชีวิตขั้นต่ำที่ถือว่าเป็นบอส",
+    
+    "battlemusic.midnightconfig.fadeTime": "เวลาการเลือนเสียง",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "เวลาตาม tick สำหรับเลื่อนระดับเสียง",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "เปิดใช้ม็อด",
+    
+    "subtitles.battlemusic.boss_theme_1": "เพลงต่อสู้สุดยิ่งใหญ่กำลังเล่น"
+}

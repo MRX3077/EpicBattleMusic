@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epic Battle Music Config, Arr!",
+    "battlemusic.midnightconfig.category.music": "Audio Booty",
+    "battlemusic.midnightconfig.musicVolume": "Music Loudness",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume o' battle tunes",
+    "battlemusic.midnightconfig.detectionRange": "Spyglass Range",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distance in blocks to start the shanty",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Boss Grit Minimum",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimum health to be a true boss",
+    "battlemusic.midnightconfig.fadeTime": "Fade Aye-time",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Ticks fer the music to fade",
+    "battlemusic.midnightconfig.enableAutoMusic": "Hoist the Mod",
+    "subtitles.battlemusic.boss_theme_1": "Epic battle shanty playin'"
+}

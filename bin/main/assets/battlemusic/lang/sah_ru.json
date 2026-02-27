@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Эпик Туһуур Музыка Туруоруулар",
+    "battlemusic.midnightconfig.category.music": "Аудио Туруоруулар",
+    "battlemusic.midnightconfig.musicVolume": "Музыка Саҥа",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Туһуур музыка саҥата",
+    "battlemusic.midnightconfig.detectionRange": "Билсиир Арааһа",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Музыка холбуур блок арааһа",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Босс Минимум Сырыт",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Босс буолуохха минимал сырыт",
+    "battlemusic.midnightconfig.fadeTime": "Саҥа Сутуур Кэмэ",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Саҥа сутуур кэмэ (tick)",
+    "battlemusic.midnightconfig.enableAutoMusic": "Мод Холбуур",
+    "subtitles.battlemusic.boss_theme_1": "Эпик туһуур музыка ойуур"
+}

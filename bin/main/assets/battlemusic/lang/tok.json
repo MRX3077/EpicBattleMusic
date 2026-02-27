@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "ilo pi kalama utala suli",
+    "battlemusic.midnightconfig.category.music": "ilo kalama",
+    "battlemusic.midnightconfig.musicVolume": "suli kalama",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "suli pi kalama utala",
+    "battlemusic.midnightconfig.detectionRange": "lon lukin",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "lon pi palisa selo la kalama open",
+    "battlemusic.midnightconfig.bossHealthThreshold": "suli pi sijelo lawa",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "sijelo lawa la suli",
+    "battlemusic.midnightconfig.fadeTime": "tenpo pini kalama",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "tenpo lili pi pini kalama",
+    "battlemusic.midnightconfig.enableAutoMusic": "open ilo",
+    "subtitles.battlemusic.boss_theme_1": "kalama utala suli li lon"
+}

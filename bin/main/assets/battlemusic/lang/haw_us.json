@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Hoʻonohonoho Mele Kaua Nui",
+    "battlemusic.midnightconfig.category.music": "Nā Hoʻonohonoho Leo",
+    "battlemusic.midnightconfig.musicVolume": "Ka Leo o ke Mele",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Ka leo o ke mele kaua",
+    "battlemusic.midnightconfig.detectionRange": "Laulā ʻIke",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ka mamao i nā poloka e hoʻā ai i ke mele",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Ola Liʻiliʻi o ka Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Ola liʻiliʻi e lilo ai i boss",
+    "battlemusic.midnightconfig.fadeTime": "Manawa Hoʻemi",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Manawa i nā ticks no ka hoʻemi leo",
+    "battlemusic.midnightconfig.enableAutoMusic": "Hoʻā i ka Mod",
+    "subtitles.battlemusic.boss_theme_1": "Ke hoʻokani ʻia nei ka mele kaua nui"
+}

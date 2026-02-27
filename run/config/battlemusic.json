@@ -1,0 +1,8 @@
+{
+  "musicVolume": 100,
+  "detectionRange": 80,
+  "bossHealthThreshold": 200,
+  "fadeTime": 80,
+  "enableAutoMusic": true,
+  "enableBossText": true
+}

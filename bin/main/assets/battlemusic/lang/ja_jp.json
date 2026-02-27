@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "エピックバトル音楽設定",
+    "battlemusic.midnightconfig.category.music": "オーディオ設定",
+    
+    "battlemusic.midnightconfig.musicVolume": "音楽の音量",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "バトル音楽の音量",
+    
+    "battlemusic.midnightconfig.detectionRange": "検出範囲",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "音楽を起動するブロックの距離",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "最小ボス体力",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "ボスと判定される最小体力",
+    
+    "battlemusic.midnightconfig.fadeTime": "フェード時間",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "音量フェードイン/アウトのティック数",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "モッドを有効にする",
+    
+    "subtitles.battlemusic.boss_theme_1": "エピックバトル音楽が再生中"
+}

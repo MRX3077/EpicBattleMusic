@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Episk Kampmusikk Konfigurasjon",
+    "battlemusic.midnightconfig.category.music": "Lydinnstillinger",
+    
+    "battlemusic.midnightconfig.musicVolume": "Musikkvolum",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volum på kampmusikken",
+    
+    "battlemusic.midnightconfig.detectionRange": "Deteksjonsrekkevidde",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Avstand i blokker for å aktivere musikken",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimum Boss-helse",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimum helse for å regnes som boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Overgangstid",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tid i ticks for volumovergang",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktiver Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Episk Kampmusikk Spilles"
+}

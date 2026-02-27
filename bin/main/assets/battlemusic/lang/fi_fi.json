@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Eeppisen Taistelumusiikin Asetukset",
+    "battlemusic.midnightconfig.category.music": "Ääniasetukset",
+    
+    "battlemusic.midnightconfig.musicVolume": "Musiikin Äänenvoimakkuus",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Taistelumusiikin äänenvoimakkuus",
+    
+    "battlemusic.midnightconfig.detectionRange": "Havaitsemisetäisyys",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Etäisyys lohkoissa musiikin aktivoimiseksi",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Bossin Minimielämä",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Vähimmäiselämä bossiksi laskemiseen",
+    
+    "battlemusic.midnightconfig.fadeTime": "Häivytysaika",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Äänenvoimakkuuden häivytyksen kesto tickeissä",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Ota Modi Käyttöön",
+    
+    "subtitles.battlemusic.boss_theme_1": "Eeppinen Taistelumusiikki Soi"
+}

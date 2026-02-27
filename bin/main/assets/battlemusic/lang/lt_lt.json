@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epinės Kovos Muzikos Konfigūracija",
+    "battlemusic.midnightconfig.category.music": "Garso Nustatymai",
+    
+    "battlemusic.midnightconfig.musicVolume": "Muzikos Garsumas",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Kovos muzikos garsumas",
+    
+    "battlemusic.midnightconfig.detectionRange": "Aptikimo Diapazonas",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Atstumas blokais muzikai aktyvuoti",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimali Bosso Sveikata",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimali sveikata, kad būtų laikomas bosu",
+    
+    "battlemusic.midnightconfig.fadeTime": "Išblukimo Laikas",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Laikas tickais garsumo išblukimui",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Įjungti Modifikaciją",
+    
+    "subtitles.battlemusic.boss_theme_1": "Groja epinė kovos muzika"
+}

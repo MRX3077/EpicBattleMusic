@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Epische Kampfmusik-Konfiguration",
+    "battlemusic.midnightconfig.category.music": "Audioeinstellungen",
+    
+    "battlemusic.midnightconfig.musicVolume": "Musiklautstärke",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Lautstärke der Kampfmusik",
+    
+    "battlemusic.midnightconfig.detectionRange": "Erkennungsbereich",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Entfernung in Blöcken zum Aktivieren der Musik",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Boss-Gesundheit",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale Gesundheit, um als Boss zu gelten",
+    
+    "battlemusic.midnightconfig.fadeTime": "Überblendzeit",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Zeit in Ticks für Lautstärke-Überblendung",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Aktivieren",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epische Kampfmusik Spielt"
+}

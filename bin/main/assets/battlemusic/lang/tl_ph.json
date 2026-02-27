@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Pag-config ng Epikong Musikang Labanan",
+    "battlemusic.midnightconfig.category.music": "Mga Setting ng Audio",
+    "battlemusic.midnightconfig.musicVolume": "Lakas ng Musika",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Lakas ng musikang panlaban",
+    "battlemusic.midnightconfig.detectionRange": "Saklaw ng Pagtuklas",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distansya sa mga bloke para simulan ang musika",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Pinakamababang Buhay ng Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Pinakamababang buhay para maging boss",
+    "battlemusic.midnightconfig.fadeTime": "Oras ng Pagkupas",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Oras sa ticks para sa paghinang ng tunog",
+    "battlemusic.midnightconfig.enableAutoMusic": "I-enable ang Mod",
+    "subtitles.battlemusic.boss_theme_1": "Tumutugtog ang epikong musikang labanan"
+}

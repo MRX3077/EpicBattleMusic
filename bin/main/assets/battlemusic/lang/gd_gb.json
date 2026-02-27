@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Rèiteachadh Ceòl Blàir Eapach",
+    "battlemusic.midnightconfig.category.music": "Roghainnean Fuaime",
+    "battlemusic.midnightconfig.musicVolume": "Àirde Ciùil",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Àirde ceòl a' bhlàir",
+    "battlemusic.midnightconfig.detectionRange": "Raon Lorg",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Astar ann am blocaichean gus ceòl a ghnìomhachadh",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Slàinte Boss as Ìsle",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Slàinte as ìsle airson boss",
+    "battlemusic.midnightconfig.fadeTime": "Ùine Falaidh",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Ùine ann an ticks airson fuaim a dhol sìos",
+    "battlemusic.midnightconfig.enableAutoMusic": "Cuir an comas Mod",
+    "subtitles.battlemusic.boss_theme_1": "Ceòl blàir eapach a’ cluich"
+}

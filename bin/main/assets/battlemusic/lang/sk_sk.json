@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Konfigurácia Epickej Bojovej Hudby",
+    "battlemusic.midnightconfig.category.music": "Nastavenia Zvuku",
+    
+    "battlemusic.midnightconfig.musicVolume": "Hlasitosť Hudby",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Hlasitosť bojovej hudby",
+    
+    "battlemusic.midnightconfig.detectionRange": "Dosah Detekcie",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Vzdialenosť v blokoch pre aktiváciu hudby",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimálne Zdravie Bossa",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimálne zdravie pre uznanie bossa",
+    
+    "battlemusic.midnightconfig.fadeTime": "Dĺžka Zmiznutia",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Čas v tickoch pre prechod hlasitosti",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Povoliť Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Epická Bojová Hudba Beží"
+}

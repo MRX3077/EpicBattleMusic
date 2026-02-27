@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "ეპიკური ბრძოლის მუსიკის კონფიგურაცია",
+    "battlemusic.midnightconfig.category.music": "აუდიოს პარამეტრები",
+    "battlemusic.midnightconfig.musicVolume": "მუსიკის ხმა",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "ბრძოლის მუსიკის ხმა",
+    "battlemusic.midnightconfig.detectionRange": "აღმოჩენის რადიუსი",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "ბლოკებში მანძილი მუსიკის ჩასართავად",
+    "battlemusic.midnightconfig.bossHealthThreshold": "ბოსის მინიმალური სიცოცხლე",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "მინიმალური სიცოცხლე ბოსად ჩასათვლელად",
+    "battlemusic.midnightconfig.fadeTime": "ჩაქრობის დრო",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "დრო ტიკებში ხმის ჩასაქრობად",
+    "battlemusic.midnightconfig.enableAutoMusic": "მოდის ჩართვა",
+    "subtitles.battlemusic.boss_theme_1": "ეპიკური ბრძოლის მუსიკა უკრავს"
+}

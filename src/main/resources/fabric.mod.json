@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "battlemusic",
+  "version": "${version}",
+  "name": "Epic Battle Music",
+  "description": "Dynamic and immersive battle music that activates during boss fights, making every encounter feel epic.",
+  "authors": ["MRX2077"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "battlemusic.EpicBattleMusic" ],
+    "client": [ "battlemusic.EpicBattleMusicClient" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

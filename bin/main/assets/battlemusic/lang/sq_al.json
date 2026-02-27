@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Konfigurimi i Muzikës Epike të Betejës",
+    "battlemusic.midnightconfig.category.music": "Cilësimet Audio",
+    "battlemusic.midnightconfig.musicVolume": "Volumi i Muzikës",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumi i muzikës së betejës",
+    "battlemusic.midnightconfig.detectionRange": "Rrezja e Zbulimit",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanca në blloqe për të aktivizuar muzikën",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Shëndeti Minimal i Boss-it",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Shëndeti minimal për t'u quajtur boss",
+    "battlemusic.midnightconfig.fadeTime": "Koha e Zbehjes",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Koha në ticks për zbehjen e volumit",
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktivizo Mod",
+    "subtitles.battlemusic.boss_theme_1": "Po luhet muzika epike e betejës"
+}

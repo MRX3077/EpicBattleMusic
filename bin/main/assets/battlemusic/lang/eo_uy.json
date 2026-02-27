@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Agordo de Epopea Batala Muziko",
+    "battlemusic.midnightconfig.category.music": "Sonaj Agordoj",
+    "battlemusic.midnightconfig.musicVolume": "Muzika Laŭteco",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Laŭteco de batala muziko",
+    "battlemusic.midnightconfig.detectionRange": "Detekta Distanco",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanco en blokoj por aktivigi muzikon",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimuma Estro-Sano",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimuma sano por esti estro",
+    "battlemusic.midnightconfig.fadeTime": "Fandiĝa Tempo",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempo en tikoj por laŭteca fandiĝo",
+    "battlemusic.midnightconfig.enableAutoMusic": "Ebligi Modon",
+    "subtitles.battlemusic.boss_theme_1": "Epopea batala muziko ludas"
+}

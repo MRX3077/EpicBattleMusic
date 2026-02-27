@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Episje Vechtmeziek Instèllinge",
+    "battlemusic.midnightconfig.category.music": "Audio Instèllinge",
+    "battlemusic.midnightconfig.musicVolume": "Meziek Volume",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume van vechtmeziek",
+    "battlemusic.midnightconfig.detectionRange": "Deteksie Berik",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Aafstaand in blokke veur meziek",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimum Boss Gezónheid",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimum gezónheid veur boss",
+    "battlemusic.midnightconfig.fadeTime": "Oetvaag Tied",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tied in ticks veur volume",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Inschakkele",
+    "subtitles.battlemusic.boss_theme_1": "Episje vechtmeziek spieëlt"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Eppsche Kampfmusigg Eenschtellungen",
+    "battlemusic.midnightconfig.category.music": "Audio Eenschtellungen",
+    "battlemusic.midnightconfig.musicVolume": "Musigg Laudschtärke",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Laudschtärke vun der Kampfmusigg",
+    "battlemusic.midnightconfig.detectionRange": "Erkennungsreichweite",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Abstand in Blöcke fier Musigg",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Boss-Gesundheit",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale Gesundheit fier Boss",
+    "battlemusic.midnightconfig.fadeTime": "Ausblendzeit",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Zeit in Ticks fier Ausblendung",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Aktivieren",
+    "subtitles.battlemusic.boss_theme_1": "Eppsche Kampfmusigg schpielt"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "banli jamna zgike cuxna",
+    "battlemusic.midnightconfig.category.music": "savru te cusku",
+    "battlemusic.midnightconfig.musicVolume": "zgike savru",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "savru be jamna zgike",
+    "battlemusic.midnightconfig.detectionRange": "jvinu kuspe",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "kuspe be lo bliku gi'e zgike",
+    "battlemusic.midnightconfig.bossHealthThreshold": "minli boss kanro",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "kanro be boss minli",
+    "battlemusic.midnightconfig.fadeTime": "savru mutce",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "tcika be savru tolcanci",
+    "battlemusic.midnightconfig.enableAutoMusic": "zgike cuxna",
+    "subtitles.battlemusic.boss_theme_1": "banli jamna zgike cabna"
+}

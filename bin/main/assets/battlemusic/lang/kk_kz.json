@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Эпикалық Шайқас Музыка Баптауы",
+    "battlemusic.midnightconfig.category.music": "Аудио Баптаулар",
+    "battlemusic.midnightconfig.musicVolume": "Музыка Дыбысы",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Шайқас музыкасының дыбысы",
+    "battlemusic.midnightconfig.detectionRange": "Анықтау Ауқымы",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Музыканы іске қосу үшін блоктағы қашықтық",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Босс Минимум Өмірі",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Босс болу үшін ең аз өмір",
+    "battlemusic.midnightconfig.fadeTime": "Бәсеңдеу Уақыты",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Дыбысты бәсеңдету уақыты (tick)",
+    "battlemusic.midnightconfig.enableAutoMusic": "Модты Қосу",
+    "subtitles.battlemusic.boss_theme_1": "Эпикалық шайқас музыкасы ойнап жатыр"
+}

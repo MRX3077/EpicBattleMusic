@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Episkās Cīņas Mūzikas Iestatījumi",
+    "battlemusic.midnightconfig.category.music": "Audio Iestatījumi",
+    
+    "battlemusic.midnightconfig.musicVolume": "Mūzikas Skaļums",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Cīņas mūzikas skaļums",
+    
+    "battlemusic.midnightconfig.detectionRange": "Noteikšanas Diapazons",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Attālums blokos, lai ieslēgtu mūziku",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimālais Bosu Veselības Līmenis",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimālā veselība, lai tiktu uzskatīts par Bosu",
+    
+    "battlemusic.midnightconfig.fadeTime": "Izbalēšanas Laiks",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Laiks tikos skaļuma izbalēšanai",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Iespējot Modifikāciju",
+    
+    "subtitles.battlemusic.boss_theme_1": "Atskaņo episko cīņas mūziku"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configurasion de Musica Epica de Bataia",
+    "battlemusic.midnightconfig.category.music": "Impostasion Audio",
+    "battlemusic.midnightconfig.musicVolume": "Volume Musica",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume de la musica de bataia",
+    "battlemusic.midnightconfig.detectionRange": "Ragio de Rilevamento",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distansa in blocchi par ativar la musica",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Salute Minima del Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Salute minima par esser boss",
+    "battlemusic.midnightconfig.fadeTime": "Tempo de Dissolvenza",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempo in ticks par la dissolvenza",
+    "battlemusic.midnightconfig.enableAutoMusic": "Ativa el Mod",
+    "subtitles.battlemusic.boss_theme_1": "Musica epica de bataia in corso"
+}

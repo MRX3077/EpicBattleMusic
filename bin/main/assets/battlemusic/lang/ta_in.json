@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "அற்புதப் போராட்ட இசை அமைப்பு",
+    "battlemusic.midnightconfig.category.music": "ஒலிப்பரமைப்புகள்",
+    
+    "battlemusic.midnightconfig.musicVolume": "இசை அளவு",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "போராட்ட இசை அளவு",
+    
+    "battlemusic.midnightconfig.detectionRange": "காணும் தூரம்",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "இசை செயல்பட வேண்டிய தூரம் (பிளாக்)",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "குறைந்தபட்ச போஸ் உயிர்",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "போஸ் என கருத வேண்டிய குறைந்தபட்ச உயிர்",
+    
+    "battlemusic.midnightconfig.fadeTime": "மறைவுச் காலம்",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "அளவு மங்கும்/பெரையும் காலம் (டிக்)",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "மாட் செயல்படுத்தவும்",
+    
+    "subtitles.battlemusic.boss_theme_1": "அற்புதப் போராட்ட இசை இயங்குகிறது"
+}

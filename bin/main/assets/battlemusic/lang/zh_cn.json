@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "史诗战斗音乐配置",
+    "battlemusic.midnightconfig.category.music": "音频设置",
+    
+    "battlemusic.midnightconfig.musicVolume": "音乐音量",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "战斗音乐音量",
+    
+    "battlemusic.midnightconfig.detectionRange": "检测范围",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "激活音乐的方块距离",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "最小Boss生命值",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "被视为Boss所需的最低生命值",
+    
+    "battlemusic.midnightconfig.fadeTime": "淡入淡出时间",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "音量淡入淡出的刻数",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "启用模组",
+    
+    "subtitles.battlemusic.boss_theme_1": "正在播放史诗战斗音乐"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Dejinta Muusigga Dagaalka Epik",
+    "battlemusic.midnightconfig.category.music": "Dejinta Codka",
+    "battlemusic.midnightconfig.musicVolume": "Heerka Muusigga",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Heerka muusigga dagaalka",
+    "battlemusic.midnightconfig.detectionRange": "Masaafada Ogaanshaha",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Masaafada blocks si muusig u bilaabmo",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Caafimaadka Boss ee Ugu Yar",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Caafimaadka ugu yar si boss loo noqdo",
+    "battlemusic.midnightconfig.fadeTime": "Waqtiga Dhimista",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Waqtiga ticks ee dhimista codka",
+    "battlemusic.midnightconfig.enableAutoMusic": "Daar Mod",
+    "subtitles.battlemusic.boss_theme_1": "Muusig dagaal epik ah ayaa socda"
+}

@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "മഹാകാവ്യ പോരാട്ടസംഗീത കോൺഫിഗറേഷൻ",
+    "battlemusic.midnightconfig.category.music": "ഓഡിയോ ക്രമീകരണങ്ങൾ",
+    
+    "battlemusic.midnightconfig.musicVolume": "സംഗീതത്തിന്റെ വാള്യം",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "പോരാട്ടസംഗീതത്തിന്റെ വാള്യം",
+    
+    "battlemusic.midnightconfig.detectionRange": "ഡിറ്റക്ഷൻ പരിധി",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "സംഗീതം പ്രവർത്തിപ്പിക്കാൻ ബ്ലോക്കിലെ ദൂരം",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "കുറഞ്ഞ ബോസ് ആരോഗ്യത്തൊഴ്ക്കണം",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "ബോസായി കണക്കാക്കപ്പെടാൻ കുറഞ്ഞ ആരോഗ്യത്തിന്റെ പരിധി",
+    
+    "battlemusic.midnightconfig.fadeTime": "ഫേഡ് സമയം",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "വാള്യം മങ്ങിയ/ ഉയരാൻ ടിക്ക് സമയം",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "മോഡ് സജീവമാക്കുക",
+    
+    "subtitles.battlemusic.boss_theme_1": "മഹാകാവ്യ പോരാട്ടസംഗീതം പ്ലേ ചെയ്യുന്നു"
+}

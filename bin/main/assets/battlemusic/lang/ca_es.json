@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Configuració de Música Èpica de Batalla",
+    "battlemusic.midnightconfig.category.music": "Configuració d'Àudio",
+    
+    "battlemusic.midnightconfig.musicVolume": "Volum de la Música",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volum de la música de batalla",
+    
+    "battlemusic.midnightconfig.detectionRange": "Abast de Detecció",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distància en blocs per activar la música",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Salut Mínima del Cap",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Salut mínima per considerar un Cap",
+    
+    "battlemusic.midnightconfig.fadeTime": "Temps de Fonament",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Temps en ticks per fondre el volum",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Activar Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Música èpica de batalla reproduint-se"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epyske Slachmuzyk Ynstellingen",
+    "battlemusic.midnightconfig.category.music": "Audio Ynstellingen",
+    "battlemusic.midnightconfig.musicVolume": "Muzykfolume",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Folume fan slachmuzyk",
+    "battlemusic.midnightconfig.detectionRange": "Deteksjeberik",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ôfstân yn blokken om muzyk te aktivearjen",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Boss-sûnens",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale sûnens om boss te wêzen",
+    "battlemusic.midnightconfig.fadeTime": "Ferfagingstiid",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tiid yn ticks foar ferfaging",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Ynskeakelje",
+    "subtitles.battlemusic.boss_theme_1": "Epyske slachmuzyk spilet"
+}

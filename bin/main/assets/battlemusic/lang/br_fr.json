@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Kefluniadur Sonerezh Emgann Epik",
+    "battlemusic.midnightconfig.category.music": "Arventennoù Son",
+    "battlemusic.midnightconfig.musicVolume": "Live ar Sonerezh",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Live sonerezh an emgann",
+    "battlemusic.midnightconfig.detectionRange": "Hed Dizolo",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Hed e bloc'hoù evit gweredekaat ar sonerezh",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Yec'hed Izek an Aotrou",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Yec'hed izel evit bezañ kontet evel aotrou",
+    "battlemusic.midnightconfig.fadeTime": "Amzer Teuziñ",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Amzer e ticks evit teuzadur ar son",
+    "battlemusic.midnightconfig.enableAutoMusic": "Gweredekaat ar Mod",
+    "subtitles.battlemusic.boss_theme_1": "Sonerezh emgann epik o seniñ"
+}

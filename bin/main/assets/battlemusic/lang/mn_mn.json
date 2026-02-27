@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Тулааны Эпик Хөгжмийн Тохиргоо",
+    "battlemusic.midnightconfig.category.music": "Дууны Тохиргоо",
+    "battlemusic.midnightconfig.musicVolume": "Хөгжмийн Дуу",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Тулааны хөгжмийн дуу",
+    "battlemusic.midnightconfig.detectionRange": "Илрүүлэх Хүрээ",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Хөгжим асаах блокын зай",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Боссын Доод Амь",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Босс болох хамгийн бага амь",
+    "battlemusic.midnightconfig.fadeTime": "Багасах Хугацаа",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Дуу багасах хугацаа (tick)",
+    "battlemusic.midnightconfig.enableAutoMusic": "Мод Идэвхжүүлэх",
+    "subtitles.battlemusic.boss_theme_1": "Эпик тулааны хөгжим тоглож байна"
+}

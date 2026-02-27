@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configuracion de Musica de Combat Epica",
+    "battlemusic.midnightconfig.category.music": "Paramètres Audio",
+    "battlemusic.midnightconfig.musicVolume": "Volum de la Musica",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volum de la musica de combat",
+    "battlemusic.midnightconfig.detectionRange": "Portada de Deteccion",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distància en blòts per activar la musica",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Santat Minima del Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Santat minima per èsser boss",
+    "battlemusic.midnightconfig.fadeTime": "Temps d'Escafada",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Temps en ticks per escafar lo volum",
+    "battlemusic.midnightconfig.enableAutoMusic": "Activar lo Mod",
+    "subtitles.battlemusic.boss_theme_1": "Musica de combat epica en cors"
+}

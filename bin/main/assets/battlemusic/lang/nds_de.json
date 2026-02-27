@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epische Slachtmusik Instelln",
+    "battlemusic.midnightconfig.category.music": "Audio Instelln",
+    "battlemusic.midnightconfig.musicVolume": "Musik Luutstärk",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Luutstärk vun de Slachtmusik",
+    "battlemusic.midnightconfig.detectionRange": "Erkennensrebeet",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Afstand in Blöck, dat Musik start",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimale Boss-Gesundheit",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimale Gesundheit för Boss",
+    "battlemusic.midnightconfig.fadeTime": "Utblend-Tiet",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tiet in Ticks för Utblenden",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Anmaken",
+    "subtitles.battlemusic.boss_theme_1": "Epische Slachtmusik löppt"
+}

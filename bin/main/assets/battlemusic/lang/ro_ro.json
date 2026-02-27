@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Configurație Muzică de Bătălie Epică",
+    "battlemusic.midnightconfig.category.music": "Setări Audio",
+    
+    "battlemusic.midnightconfig.musicVolume": "Volum Muzică",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumul muzicii de luptă",
+    
+    "battlemusic.midnightconfig.detectionRange": "Rază de Detecție",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanța în blocuri pentru activarea muzicii",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Viață Minimă Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Viața minimă necesară pentru a fi considerat boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Timp de Estompare",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Timp în tick-uri pentru estomparea volumului",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Activează Modul",
+    
+    "subtitles.battlemusic.boss_theme_1": "Muzică de Bătălie Epică Redată"
+}

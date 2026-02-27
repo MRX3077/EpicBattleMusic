@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epischi Kampfmusig Istellige",
+    "battlemusic.midnightconfig.category.music": "Audio-Istellige",
+    "battlemusic.midnightconfig.musicVolume": "Musig-Luutstärchi",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Luutstärchi vo dr Kampfmusig",
+    "battlemusic.midnightconfig.detectionRange": "Erkennigsdistanz",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanz in Blöck zum Aktiviere",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimali Boss-Gsundheit",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimali Gsundheit für Boss",
+    "battlemusic.midnightconfig.fadeTime": "Überbländziit",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Ziit in Ticks für Überbländig",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Aktiviere",
+    "subtitles.battlemusic.boss_theme_1": "Epischi Kampfmusig lauft"
+}

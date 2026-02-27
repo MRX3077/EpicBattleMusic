@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "EPIC BATTEL MUZIK SETTINZ",
+    "battlemusic.midnightconfig.category.music": "AUDIOS SETTINZ",
+    "battlemusic.midnightconfig.musicVolume": "MUZIK VOLUME",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "HOW LOUD DA BATTEL MUZIK IZ",
+    "battlemusic.midnightconfig.detectionRange": "FINDIN RANGE",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "HOW FAR TIL MUZIK STARTZ",
+    "battlemusic.midnightconfig.bossHealthThreshold": "BOSS HP MIN",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "MIN HP 2 BE BOSS",
+    "battlemusic.midnightconfig.fadeTime": "FADE SMOOTH",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "TIEM 4 MUZIK FADE",
+    "battlemusic.midnightconfig.enableAutoMusic": "TURN MOD ON",
+    "subtitles.battlemusic.boss_theme_1": "EPIC BATTEL MUZIK PLAYIN"
+}

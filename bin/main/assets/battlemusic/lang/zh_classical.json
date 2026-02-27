@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "史詩戰樂之設",
+    "battlemusic.midnightconfig.category.music": "音律之設",
+    "battlemusic.midnightconfig.musicVolume": "樂聲",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "戰樂之聲",
+    "battlemusic.midnightconfig.detectionRange": "察距",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "以方塊計距而啟樂",
+    "battlemusic.midnightconfig.bossHealthThreshold": "將之最低生氣",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "可為將者之最低生氣",
+    "battlemusic.midnightconfig.fadeTime": "漸消時",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "以刻計聲之消長",
+    "battlemusic.midnightconfig.enableAutoMusic": "啟用模組",
+    "subtitles.battlemusic.boss_theme_1": "史詩戰樂奏響"
+}

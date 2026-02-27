@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epika Batalia Muziko Konfiguro",
+    "battlemusic.midnightconfig.category.music": "Audiala Ajusti",
+    "battlemusic.midnightconfig.musicVolume": "Muziko Volumo",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumo di batalia muziko",
+    "battlemusic.midnightconfig.detectionRange": "Detekto Range",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanco en blokos por aktivigar muziko",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minima Boss Saneso",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minima saneso por esar boss",
+    "battlemusic.midnightconfig.fadeTime": "Fadado Tempo",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempo en ticks por volumo fadado",
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktivigar Mod",
+    "subtitles.battlemusic.boss_theme_1": "Epika batalia muziko ludas"
+}

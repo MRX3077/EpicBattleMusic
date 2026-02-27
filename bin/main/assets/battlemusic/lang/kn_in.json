@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "ಅಪಿಕ್ ಯುದ್ಧ ಸಂಗೀತ ಸಂರಚನೆ",
+    "battlemusic.midnightconfig.category.music": "ಆಡಿಯೋ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    
+    "battlemusic.midnightconfig.musicVolume": "ಸಂಗೀತದ ಧ್ವನಿಮಟ್ಟ",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "ಯುದ್ಧ ಸಂಗೀತದ ಧ್ವನಿಮಟ್ಟ",
+    
+    "battlemusic.midnightconfig.detectionRange": "ಗುಪ್ತಚರ ಶ್ರೇಣಿ",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "ಸಂಗೀತವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬ್ಲಾಕ್ ಗಳ ದೂರ",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "ಕನಿಷ್ಠ ಬಾಸ್ ಆರೋಗ್ಯ",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "ಬಾಸ್ ಎಂದು ಪರಿಗಣಿಸಲು ಕನಿಷ್ಠ ಆರೋಗ್ಯ",
+    
+    "battlemusic.midnightconfig.fadeTime": "ಫೇಡ್ ಸಮಯ",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "ಧ್ವನಿಮಟ್ಟ ಫೇಡ್ ಮಾಡಲು ಟಿಕ್ ಸಮಯ",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "ಮೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    
+    "subtitles.battlemusic.boss_theme_1": "ಅಪಿಕ್ ಯುದ್ಧ ಸಂಗೀತ ಓಡುತ್ತಿದೆ"
+}

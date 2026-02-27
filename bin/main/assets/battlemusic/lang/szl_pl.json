@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Sztelōnki Epickij Muzyki Bitewnej",
+    "battlemusic.midnightconfig.category.music": "Sztelōnki Audio",
+    "battlemusic.midnightconfig.musicVolume": "Głośność Muzyki",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Głośność muzyki bitewnej",
+    "battlemusic.midnightconfig.detectionRange": "Zasięg Wykrywania",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ôdległość we blokach do sztartu muzyki",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimalne Zdrowie Bossa",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimalne zdrowie coby bōć bossem",
+    "battlemusic.midnightconfig.fadeTime": "Czas Zanikanio",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Czas we tickach do zanikanio",
+    "battlemusic.midnightconfig.enableAutoMusic": "Włōncz Mod",
+    "subtitles.battlemusic.boss_theme_1": "Epicko muzyka bitewno gra"
+}

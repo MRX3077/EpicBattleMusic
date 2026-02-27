@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "תצורת מוזיקת קרב אפית",
+    "battlemusic.midnightconfig.category.music": "הגדרות שמע",
+    
+    "battlemusic.midnightconfig.musicVolume": "עוצמת מוזיקה",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "עוצמת מוזיקת הקרב",
+    
+    "battlemusic.midnightconfig.detectionRange": "טווח זיהוי",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "מרחק בבלוקים להפעלת המוזיקה",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "בריאות מינימלית של הבוס",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "בריאות מינימלית כדי להיחשב לבוס",
+    
+    "battlemusic.midnightconfig.fadeTime": "זמן דהייה",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "זמן ב-Ticks לדעיכת עוצמת הקול",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "הפעל מוד",
+    
+    "subtitles.battlemusic.boss_theme_1": "מוזיקת קרב אפית מנוגנת"
+}

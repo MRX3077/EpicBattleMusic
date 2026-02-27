@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "අපීක් සටන් සංගීත වින්‍යාසය",
+    "battlemusic.midnightconfig.category.music": "ශබ්ද සැකසුම්",
+    
+    "battlemusic.midnightconfig.musicVolume": "සංගීත ශබ්ද මට්ටම",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "සටන් සංගීත ශබ්ද මට්ටම",
+    
+    "battlemusic.midnightconfig.detectionRange": "සොයාගැනීමේ දුර",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "සංගීත ක්‍රියාත්මක කිරීමට අවශ්‍ය බ්ලොක් දුර",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "අවම බෝස් සෞඛ්‍යය",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "බෝස් ලෙස සැලකීම සඳහා අවම සෞඛ්‍යය",
+    
+    "battlemusic.midnightconfig.fadeTime": "හසුකම් කාලය",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "ශබ්ද මට්ටම අඩු/ඉහළ කිරීමට ටික් කාලය",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "මොඩ් සක්‍රීය කරන්න",
+    
+    "subtitles.battlemusic.boss_theme_1": "අපීක් සටන් සංගීතය වාදනය වේ"
+}

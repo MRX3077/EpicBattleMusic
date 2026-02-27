@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Borrokaren Musika Epikoaren Konfigurazioa",
+    "battlemusic.midnightconfig.category.music": "Audio Ezarpenak",
+    
+    "battlemusic.midnightconfig.musicVolume": "Musikaren Bolumena",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Borrokaren musika bolumena",
+    
+    "battlemusic.midnightconfig.detectionRange": "Detekzio Tartea",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Musika aktibatzeko blokeetako distantzia",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Min Bizitza Nagusi",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Nagusi bezala hartzeko gutxieneko bizitza",
+    
+    "battlemusic.midnightconfig.fadeTime": "Desagertze Denbora",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Bolumena desagertzeko denbora ticken arabera",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod-a Aktibatu",
+    
+    "subtitles.battlemusic.boss_theme_1": "Borrokaren Musika Epikoa Entzuten"
+}

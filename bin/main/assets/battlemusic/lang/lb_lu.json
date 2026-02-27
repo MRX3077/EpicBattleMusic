@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epesch Kampfmusik Astellungen",
+    "battlemusic.midnightconfig.category.music": "Audio Astellungen",
+    "battlemusic.midnightconfig.musicVolume": "Musek Lautstäerkt",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Lautstäerkt vun der Kampfmusik",
+    "battlemusic.midnightconfig.detectionRange": "Erkennungsberäich",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanz a Bléck fir Musek ze starten",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimal Boss Gesondheet",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimal Gesondheet fir Boss ze sinn",
+    "battlemusic.midnightconfig.fadeTime": "Ausblendzäit",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Zäit a ticks fir d'Lauschtert ze änneren",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mod Aktivéieren",
+    "subtitles.battlemusic.boss_theme_1": "Epesch Kampfmusik spillt"
+}

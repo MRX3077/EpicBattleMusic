@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configuración de Música de Batalla Épica",
+    "battlemusic.midnightconfig.category.music": "Configuración de Audio",
+    "battlemusic.midnightconfig.musicVolume": "Volumen de la Música",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumen de la música de batalla",
+    "battlemusic.midnightconfig.detectionRange": "Rango de Detección",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distancia en bloques para activar la música",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Vida Mínima del Jefe",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Vida mínima para ser considerado jefe",
+    "battlemusic.midnightconfig.fadeTime": "Tiempo de Fundido",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tiempo en ticks para fundido de volumen",
+    "battlemusic.midnightconfig.enableAutoMusic": "Activar Mod",
+    "subtitles.battlemusic.boss_theme_1": "Sonando música de batalla épica"
+}

@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "إعدادات موسيقى المعركة الملحمية",
+    "battlemusic.midnightconfig.category.music": "إعدادات الصوت",
+    
+    "battlemusic.midnightconfig.musicVolume": "مستوى صوت الموسيقى",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "مستوى صوت موسيقى المعركة",
+    
+    "battlemusic.midnightconfig.detectionRange": "نطاق الاكتشاف",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "المسافة بالبلوكات لتفعيل الموسيقى",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "الحد الأدنى لصحة الزعيم",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "الحد الأدنى للصحة ليُعتبر زعيماً",
+    
+    "battlemusic.midnightconfig.fadeTime": "مدة الانتقال",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "الوقت بالتيكات لتدرج الصوت",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "تفعيل المود",
+    
+    "subtitles.battlemusic.boss_theme_1": "يتم تشغيل موسيقى معركة ملحمية"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Impostazzion de la Musica de Battaja Epica",
+    "battlemusic.midnightconfig.category.music": "Impostazzion Audio",
+    "battlemusic.midnightconfig.musicVolume": "Völüm de la Musica",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Völüm de la musica de battaja",
+    "battlemusic.midnightconfig.detectionRange": "Rangh de Rilevament",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distanzia in blocch per ativà la musica",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Salüt Minima del Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Salüt minima per vess boss",
+    "battlemusic.midnightconfig.fadeTime": "Temp de Sfumada",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Temp in ticks per sfumà el völüm",
+    "battlemusic.midnightconfig.enableAutoMusic": "Ativà el Mod",
+    "subtitles.battlemusic.boss_theme_1": "La musica de battaja epica la sona"
+}

@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Eepilise Võidumuusika Seadistus",
+    "battlemusic.midnightconfig.category.music": "Heli Seaded",
+    
+    "battlemusic.midnightconfig.musicVolume": "Muusika Helitugevus",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Võidumuusika helitugevus",
+    
+    "battlemusic.midnightconfig.detectionRange": "Avastamise Ulatus",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Plokkide kaugus muusika aktiveerimiseks",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimaalne Bossi Elu",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimaalne elu, et olla boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Kahandamise Aeg",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Aeg tikkides helitugevuse kahandamiseks",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Luba Moodul",
+    
+    "subtitles.battlemusic.boss_theme_1": "Mängib eepilist võidumuusikat"
+}

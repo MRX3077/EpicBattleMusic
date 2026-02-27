@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Ìṣètò Orin Ogun Apíkọ",
+    "battlemusic.midnightconfig.category.music": "Ìṣètò Ohùn",
+    "battlemusic.midnightconfig.musicVolume": "Ìwọn Ohùn Orin",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Ìwọn ohùn orin ogun",
+    "battlemusic.midnightconfig.detectionRange": "Ibùdó Ìwárí",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Ìjìnnà nínú àwọn bulọọki láti bẹ̀rẹ̀ orin",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Ìlera Kékèké Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Ìlera tó kéré jù lọ láti jẹ́ boss",
+    "battlemusic.midnightconfig.fadeTime": "Àkókò Dídínkù",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Àkókò nínú ticks fún dídínkù ohùn",
+    "battlemusic.midnightconfig.enableAutoMusic": "Mu Mod Ṣiṣẹ́",
+    "subtitles.battlemusic.boss_theme_1": "Orin ogun apíkọ ń dun"
+}

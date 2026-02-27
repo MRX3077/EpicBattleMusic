@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Configuratio Musicae Epicae Pugnae",
+    "battlemusic.midnightconfig.category.music": "Optiones Audio",
+    "battlemusic.midnightconfig.musicVolume": "Volumen Musicae",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volumen musicae pugnae",
+    "battlemusic.midnightconfig.detectionRange": "Radius Detectionis",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Distantia in blockis ad musicam incipiendam",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Sanitas Minima Ducis",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Sanitas minima ut dux habeatur",
+    "battlemusic.midnightconfig.fadeTime": "Tempus Evanescentiae",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tempus in ticks ad evanescendum",
+    "battlemusic.midnightconfig.enableAutoMusic": "Modum Activare",
+    "subtitles.battlemusic.boss_theme_1": "Musica epica pugnae canitur"
+}

@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Stillingar fyri Episkan Bardagamúsikk",
+    "battlemusic.midnightconfig.category.music": "Ljóðstillingar",
+    "battlemusic.midnightconfig.musicVolume": "Músikkstyrki",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Styrki á bardagamúsikki",
+    "battlemusic.midnightconfig.detectionRange": "Kennirøð",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Fjarstøða í blokkunum fyri at virkja músikk",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minsta Boss-lív",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minsta lív fyri at verða bossur",
+    "battlemusic.midnightconfig.fadeTime": "Tónaút Tíð",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tíð í ticks fyri tónadeyving",
+    "battlemusic.midnightconfig.enableAutoMusic": "Virkja Mod",
+    "subtitles.battlemusic.boss_theme_1": "Episkur bardagamúsikkur spælir"
+}

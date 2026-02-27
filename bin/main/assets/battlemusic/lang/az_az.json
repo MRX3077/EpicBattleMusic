@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epik Döyüş Musiqisi Ayarları",
+    "battlemusic.midnightconfig.category.music": "Audio Ayarları",
+    "battlemusic.midnightconfig.musicVolume": "Musiqi Səviyyəsi",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Döyüş musiqisinin səsi",
+    "battlemusic.midnightconfig.detectionRange": "Aşkarlama Məsafəsi",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Musiqini aktivləşdirmək üçün məsafə",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimum Boss Sağlamlığı",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Boss sayılması üçün minimum can",
+    "battlemusic.midnightconfig.fadeTime": "Keçid Vaxtı",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Səs keçidi üçün vaxt (tick)",
+    "battlemusic.midnightconfig.enableAutoMusic": "Modu Aktiv Et",
+    "subtitles.battlemusic.boss_theme_1": "Epik döyüş musiqisi səslənir"
+}

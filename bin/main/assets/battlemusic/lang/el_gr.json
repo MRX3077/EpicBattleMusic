@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Ρυθμίσεις Επικής Μουσικής Μάχης",
+    "battlemusic.midnightconfig.category.music": "Ρυθμίσεις Ήχου",
+    
+    "battlemusic.midnightconfig.musicVolume": "Ένταση Μουσικής",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Ένταση μουσικής μάχης",
+    
+    "battlemusic.midnightconfig.detectionRange": "Εύρος Ανίχνευσης",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Απόσταση σε μπλοκ για ενεργοποίηση μουσικής",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Ελάχιστη Ζωή Αφεντικού",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Ελάχιστη ζωή για να θεωρείται αφεντικό",
+    
+    "battlemusic.midnightconfig.fadeTime": "Χρόνος Εξαφάνισης",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Χρόνος σε ticks για σταδιακή μείωση της έντασης",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Ενεργοποίηση Μόντ",
+    
+    "subtitles.battlemusic.boss_theme_1": "Παίζει επική μουσική μάχης"
+}

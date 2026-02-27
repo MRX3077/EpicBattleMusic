@@ -1,0 +1,20 @@
+{
+    "battlemusic.midnightconfig.title": "Cấu Hình Nhạc Chiến Đỉnh Cao",
+    "battlemusic.midnightconfig.category.music": "Cài Đặt Âm Thanh",
+    
+    "battlemusic.midnightconfig.musicVolume": "Âm Lượng Nhạc",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Âm lượng nhạc chiến đấu",
+    
+    "battlemusic.midnightconfig.detectionRange": "Khoảng Cách Phát Hiện",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Khoảng cách tính bằng khối để kích hoạt nhạc",
+    
+    "battlemusic.midnightconfig.bossHealthThreshold": "Máu Tối Thiểu Của Boss",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Máu tối thiểu để được coi là Boss",
+    
+    "battlemusic.midnightconfig.fadeTime": "Thời Gian Mờ Dần",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Thời gian tính theo tick để giảm/ tăng âm lượng",
+    
+    "battlemusic.midnightconfig.enableAutoMusic": "Bật Mod",
+    
+    "subtitles.battlemusic.boss_theme_1": "Nhạc Chiến Đỉnh Cao Đang Phát"
+}

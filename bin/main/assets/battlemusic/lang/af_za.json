@@ -1,0 +1,14 @@
+{
+    "battlemusic.midnightconfig.title": "Epiese Gevegsmusiek Instellings",
+    "battlemusic.midnightconfig.category.music": "Oudio-instellings",
+    "battlemusic.midnightconfig.musicVolume": "Musiekvolume",
+    "battlemusic.midnightconfig.musicVolume.tooltip": "Volume van gevegsmusiek",
+    "battlemusic.midnightconfig.detectionRange": "Opsporingsafstand",
+    "battlemusic.midnightconfig.detectionRange.tooltip": "Afstand in blokke om musiek te aktiveer",
+    "battlemusic.midnightconfig.bossHealthThreshold": "Minimum Baas Gesondheid",
+    "battlemusic.midnightconfig.bossHealthThreshold.tooltip": "Minimum gesondheid om as baas te tel",
+    "battlemusic.midnightconfig.fadeTime": "Oorgangstyd",
+    "battlemusic.midnightconfig.fadeTime.tooltip": "Tyd in ticks vir volume-oorgang",
+    "battlemusic.midnightconfig.enableAutoMusic": "Aktiveer Mod",
+    "subtitles.battlemusic.boss_theme_1": "Epiese gevegsmusiek speel"
+}
